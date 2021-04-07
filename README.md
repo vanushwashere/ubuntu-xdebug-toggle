@@ -18,7 +18,7 @@ Toggle Xdebug PHP extension on and off, from command line. Also, quickly check s
 1. Clone this repo somewhere
 2. `cd` into the dir
 3. `chmod a+rx xdebug-toggle`
-4. Create symlink `sudo ln -s /path/to/xdebug-toggle /usr/bin/xdebug`
+4. Create symlink `sudo ln -s /path/to/xdebug-toggle /usr/sbin/xdebug`
 5. Run `xdebug help`
 
 ### Available commands
